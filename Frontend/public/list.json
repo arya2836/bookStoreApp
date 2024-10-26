@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Cinderella",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/books-assortment-with-white-background_23-2148898300.jpg?t=st=1729153393~exp=1729156993~hmac=45618a955c31a6ad983d0684df10438d8f646747aa9acc93da11c069c4f83795&w=996"
+    },
+    {
+        "id": 2,
+        "name": "Philosophy Book",
+        "title": "The Lean Startup",
+        "price": 350,
+        "category": "Professional",
+        "image": "https://img.freepik.com/free-photo/books-assortment-with-white-background_23-2148898300.jpg?t=st=1729153393~exp=1729156993~hmac=45618a955c31a6ad983d0684df10438d8f646747aa9acc93da11c069c4f83795&w=996"
+    },
+    {
+        "id": 3,
+        "name": "History Book",
+        "title": "A People's History of United State",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/books-assortment-with-white-background_23-2148898300.jpg?t=st=1729153393~exp=1729156993~hmac=45618a955c31a6ad983d0684df10438d8f646747aa9acc93da11c069c4f83795&w=996"
+    },
+    {
+        "id": 4,
+        "name": "Technology Book",
+        "title": "The Innovators",
+        "price": 380,
+        "category": "Informative",
+        "image": "https://img.freepik.com/free-photo/books-assortment-with-white-background_23-2148898300.jpg?t=st=1729153393~exp=1729156993~hmac=45618a955c31a6ad983d0684df10438d8f646747aa9acc93da11c069c4f83795&w=996"
+    },
+    {
+        "id": 5,
+        "name": "Environment Book",
+        "title": "The Sixth Extinction",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/books-assortment-with-white-background_23-2148898300.jpg?t=st=1729153393~exp=1729156993~hmac=45618a955c31a6ad983d0684df10438d8f646747aa9acc93da11c069c4f83795&w=996"
+    },
+    {
+        "id": 6,
+        "name": "Music Book",
+        "title": "Life",
+        "price":  0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/books-assortment-with-white-background_23-2148898300.jpg?t=st=1729153393~exp=1729156993~hmac=45618a955c31a6ad983d0684df10438d8f646747aa9acc93da11c069c4f83795&w=996"
+    },
+    {
+        "id": 7,
+        "name": "Sports Book",
+        "title": "Moneyball",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/books-assortment-with-white-background_23-2148898300.jpg?t=st=1729153393~exp=1729156993~hmac=45618a955c31a6ad983d0684df10438d8f646747aa9acc93da11c069c4f83795&w=996"
+    },
+    {
+        "id": 8,
+        "name": "Science Book",
+        "title": "Dune",
+        "price":  0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/books-assortment-with-white-background_23-2148898300.jpg?t=st=1729153393~exp=1729156993~hmac=45618a955c31a6ad983d0684df10438d8f646747aa9acc93da11c069c4f83795&w=996"
+    },
+    {
+        "id": 9,
+        "name": "Self-Help Book",
+        "title": "The 7 Habits of Highly Effective People",
+        "price": 350,
+        "category": "Inspirational",
+        "image": "https://img.freepik.com/free-photo/books-assortment-with-white-background_23-2148898300.jpg?t=st=1729153393~exp=1729156993~hmac=45618a955c31a6ad983d0684df10438d8f646747aa9acc93da11c069c4f83795&w=996"
+    },
+    {
+        "id": 10,
+        "name": "Mystery Book",
+        "title": "Gone Girl",
+        "price": 399,
+        "category": "Suspense",
+        "image": "https://img.freepik.com/free-photo/books-assortment-with-white-background_23-2148898300.jpg?t=st=1729153393~exp=1729156993~hmac=45618a955c31a6ad983d0684df10438d8f646747aa9acc93da11c069c4f83795&w=996"
+    },
+    {
+        "id": 11,
+        "name": "Humor Book",
+        "title": "Good Omens",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/books-assortment-with-white-background_23-2148898300.jpg?t=st=1729153393~exp=1729156993~hmac=45618a955c31a6ad983d0684df10438d8f646747aa9acc93da11c069c4f83795&w=996"
+    }
+    
+]
